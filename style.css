@@ -1,0 +1,13 @@
+.container {
+    border: 5px solid orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgba(255, 223, 164, 0.377);
+}
+
